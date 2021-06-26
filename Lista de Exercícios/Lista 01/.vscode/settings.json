@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "desenha.h": "c",
+        "stdio.h": "c",
+        "cmath": "c"
+    }
+}

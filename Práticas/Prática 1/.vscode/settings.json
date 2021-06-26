@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "desenha.h": "c",
+        "iostream": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
